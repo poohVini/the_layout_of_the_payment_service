@@ -1,0 +1,5 @@
+@@include('files/chek-webp.js', {})
+@@include('files/popup.js', {})
+@@include('files/dynamic-adaptive.js', {})
+@@include('files/ibg.js', {})
+@@include('files/script.js', {})
