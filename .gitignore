@@ -117,3 +117,6 @@ dist
 
 # my swttings
 \#gitignore
+package-lock
+package
+\#src
