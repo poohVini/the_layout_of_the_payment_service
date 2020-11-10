@@ -119,5 +119,5 @@ dist
 .gitignore
 package-lock.json
 package.json
-\#src/**.*
+\#src
 gulpfile.js
