@@ -117,6 +117,6 @@ dist
 
 # my swttings
 \#gitignore
-package-lock
-package
-\#src
+package-lock.json
+package.json
+\#src/*
